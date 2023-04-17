@@ -10,4 +10,5 @@
 a=24
 b=3
 c=5
-print(k=a-b+c)
+k=a-b+c
+print(k)
